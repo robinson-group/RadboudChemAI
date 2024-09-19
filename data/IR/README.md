@@ -23,3 +23,24 @@ License: LICENSE_lackey.txt.
   langid = {english}
 }
 ```
+
+# cahill_regioisomers.csv
+
+A dataset of averaged IR spectra labelled with compound names and regioisomer
+labels. Reprocessed from data provided by Cahill and co-workers.
+
+```
+@article{
+author = {Cahill, Samuel T. and Young, Joseph E. B. and Howe, Max and Clark, Ryan and Worrall, Andrew F. and Stewart, Malcolm I.},
+title = {Assignment of Regioisomers Using Infrared Spectroscopy: A Python Coding Exercise in Data Processing and Machine Learning},
+journal = {Journal of Chemical Education},
+volume = {101},
+number = {7},
+pages = {2925-2932},
+year = {2024},
+doi = {10.1021/acs.jchemed.4c00295},
+URL = { https://doi.org/10.1021/acs.jchemed.4c00295 },
+eprint = { https://doi.org/10.1021/acs.jchemed.4c00295 }
+}
+```
+
