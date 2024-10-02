@@ -48,3 +48,26 @@ database.
   langid = {english}
 }
 ```
+
+## vanDuppen_JACS_2023.csv
+
+Data on time courses of the formose reaction in a flow reactor.
+
+### Citation
+
+```
+@article{vanDuppen2023,
+  title = {Dynamic Environmental Conditions Affect the Composition of a Model Prebiotic Reaction Network},
+  volume = {145},
+  ISSN = {1520-5126},
+  url = {http://dx.doi.org/10.1021/jacs.3c00908},
+  DOI = {10.1021/jacs.3c00908},
+  number = {13},
+  journal = {Journal of the American Chemical Society},
+  publisher = {American Chemical Society (ACS)},
+  author = {van Duppen,  Peer and Daines,  Elena and Robinson,  William E. and Huck,  Wilhelm T. S.},
+  year = {2023},
+  month = mar,
+  pages = {7559–7568}
+}
+```
