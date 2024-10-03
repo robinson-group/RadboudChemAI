@@ -71,3 +71,27 @@ Data on time courses of the formose reaction in a flow reactor.
   pages = {7559–7568}
 }
 ```
+
+## Robinson_2022.csv, Robinson_2022_conditions.csv
+
+Compositional data on the formose reaction under a range of conditions.
+
+### Citation
+
+```
+@article{robinson2022,
+  title = {Environmental Conditions Drive Self-Organization of Reaction Pathways in a Prebiotic Reaction Network},
+  author = {Robinson, William E. and Daines, Elena and family=Duppen, given=Peer, prefix=van, useprefix=true and family=Jong, given=Thijs, prefix=de, useprefix=true and Huck, Wilhelm T. S.},
+  date = {2022-06},
+  journaltitle = {Nature Chemistry},
+  shortjournal = {Nat. Chem.},
+  volume = {14},
+  number = {6},
+  pages = {623--631},
+  issn = {1755-4330, 1755-4349},
+  doi = {10.1038/s41557-022-00956-7},
+  url = {https://www.nature.com/articles/s41557-022-00956-7},
+  urldate = {2022-09-06},
+  langid = {english}
+}
+```
